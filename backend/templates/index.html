@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Cup 2026 - Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #020617; color: #fff; min-height: 100vh;
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 1.5rem; }
+        .text-center { text-align: center; }
+        .text-4xl { font-size: 2.25rem; }
+        .text-2xl { font-size: 1.5rem; }
+        .text-sm { font-size: 0.875rem; }
+        .text-xs { font-size: 0.75rem; }
+        .font-bold { font-weight: 700; }
+        .font-mono { font-family: 'Courier New', Courier, monospace; }
+        .mb-2 { margin-bottom: 0.5rem; }
+        .mb-4 { margin-bottom: 1rem; }
+        .mb-8 { margin-bottom: 2rem; }
+        .mt-4 { margin-top: 1rem; }
+        .gap-1 { gap: 0.25rem; }
+        .gap-2 { gap: 0.5rem; }
+        .gap-3 { gap: 0.75rem; }
+        .gap-4 { gap: 1rem; }
+        .gap-6 { gap: 1.5rem; }
+        .flex { display: flex; }
+        .items-center { align-items: center; }
+        .justify-center { justify-content: center; }
+        .justify-between { justify-content: space-between; }
+        .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        .max-w-\[120px\] { max-width: 120px; }
+        .hidden { display: none; }
+        .italic { font-style: italic; }
+        .tracking-tight { letter-spacing: -0.025em; }
+
+        .grid { display: grid; }
+        .grid-cols-1 { grid-template-columns: repeat(1, minmax(0, 1fr)); }
+        @media (min-width: 768px) { .md-grid-cols-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+        @media (min-width: 1024px) { .lg-grid-cols-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+
+        .tab-btn {
+            padding: 0.5rem 1.5rem; border-radius: 9999px; border: none;
+            font-size: 0.875rem; font-weight: 600; cursor: pointer;
+            transition: all 0.2s;
+        }
+        .tab-active { background: #2563eb; color: #fff; }
+        .tab-inactive { background: #1e293b; color: #94a3b8; }
+        .tab-inactive:hover { background: #334155; }
+
+        .card {
+            background: #0f172a; border: 1px solid #1e293b;
+            border-radius: 1rem; padding: 1.5rem; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.3);
+        }
+        .logo-text { font-size: 2.25rem; }
+        .badge-sumber {
+            display: inline-block; padding: 0.125rem 0.375rem; border-radius: 0.25rem;
+            font-size: 0.625rem; background: #4c1d95; color: #d8b4fe;
+        }
+        .info-label { color: #94a3b8; }
+
+        .form-circle {
+            width: 2rem; height: 2rem; border-radius: 9999px;
+            display: inline-flex; align-items: center; justify-content: center;
+            font-size: 0.875rem; font-weight: 700;
+        }
+        .bg-green { background: #059669; }
+        .bg-amber { background: #d97706; }
+        .bg-red { background: #dc2626; }
+        .bg-slate { background: #1e293b; }
+
+        .stat-box {
+            background: #1e293b; border-radius: 0.5rem; padding: 0.5rem;
+            font-size: 0.875rem;
+        }
+
+        .match-row {
+            display: flex; justify-content: space-between;
+            font-size: 0.75rem; background: rgba(30, 41, 59, 0.5);
+            border-radius: 0.25rem; padding: 0.25rem 0.5rem;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        .text-emerald { color: #34d399; }
+        .text-amber { color: #fbbf24; }
+        .text-red { color: #f87171; }
+        .text-slate { color: #64748b; }
+        .text-slate-400 { color: #94a3b8; }
+
+        .indicator { width: 0.5rem; height: 0.5rem; border-radius: 9999px; display: inline-block; }
+        .bg-emerald-500 { background: #10b981; }
+        .bg-violet-500 { background: #8b5cf6; }
+
+        .space-y-1 > * + * { margin-top: 0.25rem; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-4xl font-bold text-center mb-2 tracking-tight">World Cup 2026</h1>
+        <p class="text-center text-slate mb-8 text-sm">Dashboard Tim &amp; Statistik Terpadu</p>
+
+        <!-- Tab Navigation -->
+        <div class="flex justify-center gap-4 mb-8">
+            <button onclick="showTab('mock')" id="tab-mock" class="tab-btn tab-active">Mock Data</button>
+            <button onclick="showTab('real')" id="tab-real" class="tab-btn tab-inactive">Real API (48 Tim)</button>
+            <button onclick="showTab('rapid')" id="tab-rapid" class="tab-btn tab-inactive">RapidAPI (Gabungan)</button>
+        </div>
+
+        <!-- Mock Data Section -->
+        <div id="section-mock">
+            <div class="grid grid-cols-1 md-grid-cols-2 lg-grid-cols-3 gap-6">
+                {% for key, tim in data_tim.items() %}
+                <div class="card">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="logo-text">{{ tim.logo }}</span>
+                        <div>
+                            <h2 class="text-2xl font-bold">{{ tim.nama_tim }}</h2>
+                            <p class="text-sm text-slate-400">{{ tim.grup }}</p>
+                        </div>
+                    </div>
+                    <div class="flex gap-1 mb-4">
+                        {% for hasil in tim.tren_performa %}
+                        <span class="form-circle {% if hasil == 'M' %}bg-green{% elif hasil == 'S' %}bg-amber{% else %}bg-red{% endif %}">{{ hasil }}</span>
+                        {% endfor %}
+                    </div>
+                    <div class="grid grid-cols-1 gap-2 text-sm mb-4">
+                        <div class="flex gap-2">
+                            <div class="stat-box flex-1"><span class="info-label">Gol:</span> <span class="font-bold">{{ tim.statistik_5_laga.gol_dicetak }}</span></div>
+                            <div class="stat-box flex-1"><span class="info-label">Kebobolan:</span> <span class="font-bold">{{ tim.statistik_5_laga.gol_kemalingan }}</span></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <div class="stat-box flex-1"><span class="info-label">Possesi:</span> <span class="font-bold">{{ tim.statistik_5_laga.rata_penguasaan_bola }}%</span></div>
+                            <div class="stat-box flex-1"><span class="info-label">Shots:</span> <span class="font-bold">{{ tim.statistik_5_laga.total_shots_on_target }}</span></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <div class="stat-box flex-1"><span class="info-label">Clean Sheets:</span> <span class="font-bold">{{ tim.statistik_5_laga.clean_sheets }}</span></div>
+                            <div class="stat-box flex-1"><span class="info-label">Kartu Kuning:</span> <span class="font-bold">{{ tim.statistik_5_laga.kartu_kuning }}</span></div>
+                        </div>
+                    </div>
+                    <h3 class="text-sm font-bold text-slate-400 mb-2">Riwayat 5 Laga:</h3>
+                    <div class="space-y-1">
+                        {% for match in tim.riwayat_pertandingan %}
+                        <div class="match-row">
+                            <span class="text-slate">{{ match.tanggal }}</span>
+                            <span>{{ match.lawan }}</span>
+                            <span class="font-bold {% if match.status == 'M' %}text-emerald{% elif match.status == 'S' %}text-amber{% else %}text-red{% endif %}">{{ match.skor }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- Real API Section (football-data.org) -->
+        <div id="section-real" class="hidden">
+            <div class="flex items-center gap-2 mb-4 text-sm text-slate-400">
+                <span class="indicator bg-emerald-500"></span>
+                Data dari <span class="font-mono text-emerald">football-data.org</span> &mdash; {{ data_real|length }} tim
+            </div>
+            <div class="grid grid-cols-1 md-grid-cols-2 lg-grid-cols-3 gap-6">
+                {% for nama, tim in data_real.items() %}
+                <div class="card">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="logo-text">{{ tim.logo or '🏆' }}</span>
+                        <div>
+                            <h2 class="text-2xl font-bold">{{ tim.nama_tim }}</h2>
+                            <p class="text-sm text-slate-400">{{ tim.grup }}</p>
+                        </div>
+                    </div>
+                    <div class="flex gap-1 mb-4">
+                        {% for hasil in tim.tren_performa %}
+                        <span class="form-circle {% if hasil == 'M' %}bg-green{% elif hasil == 'S' %}bg-amber{% else %}bg-red{% endif %}">{{ hasil }}</span>
+                        {% endfor %}
+                        {% if not tim.tren_performa %}
+                        <span class="text-xs text-slate italic">Belum ada pertandingan</span>
+                        {% endif %}
+                    </div>
+                    <div class="flex gap-2 text-sm mb-4">
+                        <div class="stat-box flex-1"><span class="info-label">Gol:</span> <span class="font-bold">{{ tim.statistik_5_laga.gol_dicetak }}</span></div>
+                        <div class="stat-box flex-1"><span class="info-label">Kebobolan:</span> <span class="font-bold">{{ tim.statistik_5_laga.gol_kemalingan }}</span></div>
+                    </div>
+                    <h3 class="text-sm font-bold text-slate-400 mb-2">Riwayat 5 Laga:</h3>
+                    <div class="space-y-1">
+                        {% for match in tim.riwayat_pertandingan %}
+                        <div class="match-row">
+                            <span class="text-slate">{{ match.tanggal }}</span>
+                            <span>{{ match.lawan }}</span>
+                            <span class="font-bold {% if match.status == 'M' %}text-emerald{% elif match.status == 'S' %}text-amber{% else %}text-red{% endif %}">{{ match.skor }}</span>
+                        </div>
+                        {% else %}
+                        <span class="text-xs text-slate italic">Belum ada data pertandingan</span>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- RapidAPI Merged Section -->
+        <div id="section-rapid" class="hidden">
+            <div class="flex items-center gap-2 mb-4 text-sm text-slate-400">
+                <span class="indicator bg-violet-500"></span>
+                Data gabungan dari <span class="font-mono text-emerald">football-data.org</span> + <span class="font-mono" style="color:#8b5cf6">RapidAPI</span>
+            </div>
+            <div class="grid grid-cols-1 md-grid-cols-2 lg-grid-cols-3 gap-6">
+                {% for key, tim in dashboard.items() %}
+                <div class="card">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="logo-text">{{ tim.logo or '🏆' }}</span>
+                        <div>
+                            <h2 class="text-2xl font-bold">{{ tim.nama_tim }}</h2>
+                            <div class="flex items-center gap-1 text-xs text-slate-400">
+                                <span>{{ tim.grup }}</span>
+                                {% if tim._sumber == 'rapidapi' %}
+                                <span class="badge-sumber">API</span>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Form Trend -->
+                    <div class="flex gap-1 mb-4">
+                        {% if tim.statistik_rapidapi and tim.statistik_rapidapi.form %}
+                            {% for hasil in tim.statistik_rapidapi.form %}
+                            <span class="form-circle {% if hasil == 'W' %}bg-green{% elif hasil == 'D' %}bg-amber{% else %}bg-red{% endif %}">{{ hasil }}</span>
+                            {% endfor %}
+                        {% else %}
+                            {% for hasil in tim.tren_performa %}
+                            <span class="form-circle {% if hasil == 'M' %}bg-green{% elif hasil == 'S' %}bg-amber{% else %}bg-red{% endif %}">{{ hasil }}</span>
+                            {% endfor %}
+                        {% endif %}
+                        {% if not tim.tren_performa and not tim.statistik_rapidapi.form %}
+                        <span class="text-xs text-slate italic">Belum ada data</span>
+                        {% endif %}
+                    </div>
+
+                    <!-- Stats -->
+                    <div class="flex gap-2 text-sm mb-4">
+                        {% if tim.statistik_rapidapi %}
+                        <div class="stat-box flex-1"><span class="info-label">Gol:</span> <span class="font-bold">{{ tim.statistik_rapidapi.goals_for }}</span></div>
+                        <div class="stat-box flex-1"><span class="info-label">Kebobolan:</span> <span class="font-bold">{{ tim.statistik_rapidapi.goals_against }}</span></div>
+                        {% else %}
+                        <div class="stat-box flex-1"><span class="info-label">Gol:</span> <span class="font-bold">{{ tim.statistik_5_laga.gol_dicetak }}</span></div>
+                        <div class="stat-box flex-1"><span class="info-label">Kebobolan:</span> <span class="font-bold">{{ tim.statistik_5_laga.gol_kemalingan }}</span></div>
+                        {% endif %}
+                    </div>
+
+                    <!-- Riwayat -->
+                    {% if tim.riwayat_rapidapi %}
+                    <h3 class="text-sm font-bold text-slate-400 mb-2">Riwayat 5 Laga (RapidAPI):</h3>
+                    <div class="space-y-1">
+                        {% for match in tim.riwayat_rapidapi %}
+                        <div class="match-row">
+                            <span class="text-slate">{{ match.tanggal }}</span>
+                            <span class="truncate max-w-[120px]">{{ match.home }} vs {{ match.away }}</span>
+                            <span class="font-bold {% if match.status == 'M' %}text-emerald{% elif match.status == 'S' %}text-amber{% else %}text-red{% endif %}">{{ match.skor }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% elif tim.riwayat_pertandingan %}
+                    <h3 class="text-sm font-bold text-slate-400 mb-2">Riwayat 5 Laga:</h3>
+                    <div class="space-y-1">
+                        {% for match in tim.riwayat_pertandingan %}
+                        <div class="match-row">
+                            <span class="text-slate">{{ match.tanggal }}</span>
+                            <span>{{ match.lawan }}</span>
+                            <span class="font-bold {% if match.status == 'M' %}text-emerald{% elif match.status == 'S' %}text-amber{% else %}text-red{% endif %}">{{ match.skor }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% else %}
+                    <h3 class="text-sm font-bold text-slate-400 mb-2">Riwayat 5 Laga:</h3>
+                    <span class="text-xs text-slate italic">Belum ada data</span>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function showTab(tab) {
+            document.getElementById('section-mock').classList.toggle('hidden', tab !== 'mock');
+            document.getElementById('section-real').classList.toggle('hidden', tab !== 'real');
+            document.getElementById('section-rapid').classList.toggle('hidden', tab !== 'rapid');
+            ['mock','real','rapid'].forEach(t => {
+                var btn = document.getElementById('tab-' + t);
+                btn.className = (t === tab)
+                    ? 'tab-btn tab-active'
+                    : 'tab-btn tab-inactive';
+            });
+        }
+    </script>
+</body>
+</html>

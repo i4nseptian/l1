@@ -1,0 +1,5286 @@
+{
+  "total_sports": 53,
+  "total_markets": 583,
+  "tournament_groups": [
+    "Babak ke-2",
+    "Babak pertama",
+    "Cadangan",
+    "Dribbling",
+    "Duel udara",
+    "Gol yang diharapkan",
+    "Hasil Akumulator",
+    "Hasil Alternatif",
+    "Intersepsi",
+    "Kartu",
+    "Kartu Kuning",
+    "Kartu. Statistik",
+    "Kejadian 1-menit",
+    "Kejadian Cepat",
+    "Lemparan ke dalam",
+    "Offside",
+    "Operan",
+    "Pelanggaran",
+    "Pengecekan VAR",
+    "Penyelamatan",
+    "Pertama Terjadi",
+    "Post dan Crossbar",
+    "Shot Pada Target",
+    "Statistik Pemain",
+    "Statistik pemain (termasuk waktu tambahan)",
+    "Tackle",
+    "Taruhan Spesial",
+    "Tembakan Pada Gawang",
+    "Tendangan Sudut",
+    "Tendangan gawang",
+    "Tim medis"
+  ],
+  "markets": [
+    {
+      "sport_id": 214429,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Babak pertama",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 121
+    },
+    {
+      "sport_id": 214429,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Babak pertama",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 48
+    },
+    {
+      "sport_id": 214429,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Babak pertama",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 10
+    },
+    {
+      "sport_id": 214429,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Babak pertama",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 214429,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Babak pertama",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 42
+    },
+    {
+      "sport_id": 214429,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Babak pertama",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 214429,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Babak pertama",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 214429,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Babak pertama",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 60
+    },
+    {
+      "sport_id": 214429,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Babak pertama",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 20
+    },
+    {
+      "sport_id": 214429,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Babak pertama",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 214429,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Babak pertama",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 245
+    },
+    {
+      "sport_id": 214430,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Babak ke-2",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 125
+    },
+    {
+      "sport_id": 214430,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Babak ke-2",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 51
+    },
+    {
+      "sport_id": 214430,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Babak ke-2",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 10
+    },
+    {
+      "sport_id": 214430,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Babak ke-2",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 214430,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Babak ke-2",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 42
+    },
+    {
+      "sport_id": 214430,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Babak ke-2",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 214430,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Babak ke-2",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 214430,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Babak ke-2",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 64
+    },
+    {
+      "sport_id": 214430,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Babak ke-2",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 22
+    },
+    {
+      "sport_id": 214430,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Babak ke-2",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 214430,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Babak ke-2",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 256
+    },
+    {
+      "sport_id": 155241,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan Sudut",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 112
+    },
+    {
+      "sport_id": 155241,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan Sudut",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 138
+    },
+    {
+      "sport_id": 155241,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan Sudut",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 14
+    },
+    {
+      "sport_id": 155241,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan Sudut",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155241,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan Sudut",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155241,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan Sudut",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 30
+    },
+    {
+      "sport_id": 155241,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan Sudut",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155241,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan Sudut",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 7
+    },
+    {
+      "sport_id": 155241,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan Sudut",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 16
+    },
+    {
+      "sport_id": 155241,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan Sudut",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155241,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan Sudut",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 401
+    },
+    {
+      "sport_id": 155281,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan Sudut",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 35
+    },
+    {
+      "sport_id": 155281,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan Sudut",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 35
+    },
+    {
+      "sport_id": 155281,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan Sudut",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155281,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan Sudut",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155281,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan Sudut",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155281,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan Sudut",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155281,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan Sudut",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155281,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan Sudut",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155281,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan Sudut",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 4
+    },
+    {
+      "sport_id": 155281,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan Sudut",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155281,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan Sudut",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 48
+    },
+    {
+      "sport_id": 155282,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan Sudut",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 35
+    },
+    {
+      "sport_id": 155282,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan Sudut",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 35
+    },
+    {
+      "sport_id": 155282,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan Sudut",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155282,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan Sudut",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155282,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan Sudut",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155282,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan Sudut",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155282,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan Sudut",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155282,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan Sudut",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155282,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan Sudut",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 4
+    },
+    {
+      "sport_id": 155282,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan Sudut",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155282,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan Sudut",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 50
+    },
+    {
+      "sport_id": 185919,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian Cepat",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 185919,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian Cepat",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 185919,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian Cepat",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 185919,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian Cepat",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 185919,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian Cepat",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 185919,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian Cepat",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 185919,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian Cepat",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 185919,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian Cepat",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 185919,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian Cepat",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 185919,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian Cepat",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 185919,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian Cepat",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 11
+    },
+    {
+      "sport_id": 155249,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu Kuning",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 73
+    },
+    {
+      "sport_id": 155249,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu Kuning",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 57
+    },
+    {
+      "sport_id": 155249,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu Kuning",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 10
+    },
+    {
+      "sport_id": 155249,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu Kuning",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155249,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu Kuning",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155249,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu Kuning",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155249,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu Kuning",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155249,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu Kuning",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 8
+    },
+    {
+      "sport_id": 155249,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu Kuning",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 14
+    },
+    {
+      "sport_id": 155249,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu Kuning",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155249,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu Kuning",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 142
+    },
+    {
+      "sport_id": 155255,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Kartu Kuning",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 21
+    },
+    {
+      "sport_id": 155255,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Kartu Kuning",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 18
+    },
+    {
+      "sport_id": 155255,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Kartu Kuning",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155255,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Kartu Kuning",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155255,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Kartu Kuning",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155255,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Kartu Kuning",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155255,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Kartu Kuning",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155255,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Kartu Kuning",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155255,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Kartu Kuning",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 4
+    },
+    {
+      "sport_id": 155255,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Kartu Kuning",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155255,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Kartu Kuning",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 31
+    },
+    {
+      "sport_id": 167357,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Kartu Kuning",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 25
+    },
+    {
+      "sport_id": 167357,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Kartu Kuning",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 23
+    },
+    {
+      "sport_id": 167357,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Kartu Kuning",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 167357,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Kartu Kuning",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167357,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Kartu Kuning",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167357,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Kartu Kuning",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167357,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Kartu Kuning",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167357,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Kartu Kuning",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167357,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Kartu Kuning",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 4
+    },
+    {
+      "sport_id": 167357,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Kartu Kuning",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167357,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Kartu Kuning",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 38
+    },
+    {
+      "sport_id": 211051,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 5
+    },
+    {
+      "sport_id": 211051,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 2
+    },
+    {
+      "sport_id": 211051,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 211051,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 211051,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 211051,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 211051,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 211051,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 211051,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 211051,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 211051,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 9
+    },
+    {
+      "sport_id": 155272,
+      "period": null,
+      "period_name": "",
+      "group": "Shot Pada Target",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 62
+    },
+    {
+      "sport_id": 155272,
+      "period": null,
+      "period_name": "",
+      "group": "Shot Pada Target",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 42
+    },
+    {
+      "sport_id": 155272,
+      "period": null,
+      "period_name": "",
+      "group": "Shot Pada Target",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 14
+    },
+    {
+      "sport_id": 155272,
+      "period": null,
+      "period_name": "",
+      "group": "Shot Pada Target",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155272,
+      "period": null,
+      "period_name": "",
+      "group": "Shot Pada Target",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155272,
+      "period": null,
+      "period_name": "",
+      "group": "Shot Pada Target",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 10
+    },
+    {
+      "sport_id": 155272,
+      "period": null,
+      "period_name": "",
+      "group": "Shot Pada Target",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155272,
+      "period": null,
+      "period_name": "",
+      "group": "Shot Pada Target",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155272,
+      "period": null,
+      "period_name": "",
+      "group": "Shot Pada Target",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155272,
+      "period": null,
+      "period_name": "",
+      "group": "Shot Pada Target",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155272,
+      "period": null,
+      "period_name": "",
+      "group": "Shot Pada Target",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 98
+    },
+    {
+      "sport_id": 155343,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Shot Pada Target",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 22
+    },
+    {
+      "sport_id": 155343,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Shot Pada Target",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 14
+    },
+    {
+      "sport_id": 155343,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Shot Pada Target",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155343,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Shot Pada Target",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155343,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Shot Pada Target",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155343,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Shot Pada Target",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155343,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Shot Pada Target",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155343,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Shot Pada Target",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155343,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Shot Pada Target",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155343,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Shot Pada Target",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155343,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Shot Pada Target",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 22
+    },
+    {
+      "sport_id": 232556,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Shot Pada Target",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 18
+    },
+    {
+      "sport_id": 232556,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Shot Pada Target",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 10
+    },
+    {
+      "sport_id": 232556,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Shot Pada Target",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 232556,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Shot Pada Target",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232556,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Shot Pada Target",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232556,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Shot Pada Target",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232556,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Shot Pada Target",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232556,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Shot Pada Target",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232556,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Shot Pada Target",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232556,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Shot Pada Target",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232556,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Shot Pada Target",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 20
+    },
+    {
+      "sport_id": 155350,
+      "period": null,
+      "period_name": "",
+      "group": "Offside",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 47
+    },
+    {
+      "sport_id": 155350,
+      "period": null,
+      "period_name": "",
+      "group": "Offside",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 28
+    },
+    {
+      "sport_id": 155350,
+      "period": null,
+      "period_name": "",
+      "group": "Offside",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 12
+    },
+    {
+      "sport_id": 155350,
+      "period": null,
+      "period_name": "",
+      "group": "Offside",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155350,
+      "period": null,
+      "period_name": "",
+      "group": "Offside",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155350,
+      "period": null,
+      "period_name": "",
+      "group": "Offside",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 20
+    },
+    {
+      "sport_id": 155350,
+      "period": null,
+      "period_name": "",
+      "group": "Offside",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155350,
+      "period": null,
+      "period_name": "",
+      "group": "Offside",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155350,
+      "period": null,
+      "period_name": "",
+      "group": "Offside",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155350,
+      "period": null,
+      "period_name": "",
+      "group": "Offside",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155350,
+      "period": null,
+      "period_name": "",
+      "group": "Offside",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 73
+    },
+    {
+      "sport_id": 155351,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Offside",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 20
+    },
+    {
+      "sport_id": 155351,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Offside",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 12
+    },
+    {
+      "sport_id": 155351,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Offside",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155351,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Offside",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155351,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Offside",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155351,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Offside",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155351,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Offside",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155351,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Offside",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155351,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Offside",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155351,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Offside",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155351,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Offside",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 20
+    },
+    {
+      "sport_id": 157124,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Offside",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 14
+    },
+    {
+      "sport_id": 157124,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Offside",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 6
+    },
+    {
+      "sport_id": 157124,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Offside",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 157124,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Offside",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157124,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Offside",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157124,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Offside",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157124,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Offside",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157124,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Offside",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157124,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Offside",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157124,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Offside",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157124,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Offside",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 16
+    },
+    {
+      "sport_id": 155379,
+      "period": null,
+      "period_name": "",
+      "group": "Pelanggaran",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 65
+    },
+    {
+      "sport_id": 155379,
+      "period": null,
+      "period_name": "",
+      "group": "Pelanggaran",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 36
+    },
+    {
+      "sport_id": 155379,
+      "period": null,
+      "period_name": "",
+      "group": "Pelanggaran",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 14
+    },
+    {
+      "sport_id": 155379,
+      "period": null,
+      "period_name": "",
+      "group": "Pelanggaran",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155379,
+      "period": null,
+      "period_name": "",
+      "group": "Pelanggaran",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155379,
+      "period": null,
+      "period_name": "",
+      "group": "Pelanggaran",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155379,
+      "period": null,
+      "period_name": "",
+      "group": "Pelanggaran",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155379,
+      "period": null,
+      "period_name": "",
+      "group": "Pelanggaran",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 8
+    },
+    {
+      "sport_id": 155379,
+      "period": null,
+      "period_name": "",
+      "group": "Pelanggaran",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155379,
+      "period": null,
+      "period_name": "",
+      "group": "Pelanggaran",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155379,
+      "period": null,
+      "period_name": "",
+      "group": "Pelanggaran",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 73
+    },
+    {
+      "sport_id": 155415,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pelanggaran",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 22
+    },
+    {
+      "sport_id": 155415,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pelanggaran",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 14
+    },
+    {
+      "sport_id": 155415,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pelanggaran",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155415,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pelanggaran",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155415,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pelanggaran",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155415,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pelanggaran",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155415,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pelanggaran",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155415,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pelanggaran",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155415,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pelanggaran",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155415,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pelanggaran",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155415,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pelanggaran",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 22
+    },
+    {
+      "sport_id": 167594,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Pelanggaran",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 14
+    },
+    {
+      "sport_id": 167594,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Pelanggaran",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 6
+    },
+    {
+      "sport_id": 167594,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Pelanggaran",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 167594,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Pelanggaran",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167594,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Pelanggaran",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167594,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Pelanggaran",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167594,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Pelanggaran",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167594,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Pelanggaran",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167594,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Pelanggaran",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167594,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Pelanggaran",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167594,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Pelanggaran",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 14
+    },
+    {
+      "sport_id": 155472,
+      "period": null,
+      "period_name": "",
+      "group": "Post dan Crossbar",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 9
+    },
+    {
+      "sport_id": 155472,
+      "period": null,
+      "period_name": "",
+      "group": "Post dan Crossbar",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155472,
+      "period": null,
+      "period_name": "",
+      "group": "Post dan Crossbar",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155472,
+      "period": null,
+      "period_name": "",
+      "group": "Post dan Crossbar",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155472,
+      "period": null,
+      "period_name": "",
+      "group": "Post dan Crossbar",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155472,
+      "period": null,
+      "period_name": "",
+      "group": "Post dan Crossbar",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155472,
+      "period": null,
+      "period_name": "",
+      "group": "Post dan Crossbar",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155472,
+      "period": null,
+      "period_name": "",
+      "group": "Post dan Crossbar",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155472,
+      "period": null,
+      "period_name": "",
+      "group": "Post dan Crossbar",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155472,
+      "period": null,
+      "period_name": "",
+      "group": "Post dan Crossbar",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155472,
+      "period": null,
+      "period_name": "",
+      "group": "Post dan Crossbar",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 11
+    },
+    {
+      "sport_id": 155463,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Post dan Crossbar",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 9
+    },
+    {
+      "sport_id": 155463,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Post dan Crossbar",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155463,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Post dan Crossbar",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155463,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Post dan Crossbar",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155463,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Post dan Crossbar",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155463,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Post dan Crossbar",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155463,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Post dan Crossbar",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155463,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Post dan Crossbar",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155463,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Post dan Crossbar",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155463,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Post dan Crossbar",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155463,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Post dan Crossbar",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 11
+    },
+    {
+      "sport_id": 167361,
+      "period": null,
+      "period_name": "",
+      "group": "Cadangan",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 2
+    },
+    {
+      "sport_id": 167361,
+      "period": null,
+      "period_name": "",
+      "group": "Cadangan",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 2
+    },
+    {
+      "sport_id": 167361,
+      "period": null,
+      "period_name": "",
+      "group": "Cadangan",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167361,
+      "period": null,
+      "period_name": "",
+      "group": "Cadangan",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167361,
+      "period": null,
+      "period_name": "",
+      "group": "Cadangan",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167361,
+      "period": null,
+      "period_name": "",
+      "group": "Cadangan",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167361,
+      "period": null,
+      "period_name": "",
+      "group": "Cadangan",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167361,
+      "period": null,
+      "period_name": "",
+      "group": "Cadangan",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167361,
+      "period": null,
+      "period_name": "",
+      "group": "Cadangan",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167361,
+      "period": null,
+      "period_name": "",
+      "group": "Cadangan",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167361,
+      "period": null,
+      "period_name": "",
+      "group": "Cadangan",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 5
+    },
+    {
+      "sport_id": 167377,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Cadangan",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 2
+    },
+    {
+      "sport_id": 167377,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Cadangan",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 2
+    },
+    {
+      "sport_id": 167377,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Cadangan",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167377,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Cadangan",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167377,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Cadangan",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167377,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Cadangan",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167377,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Cadangan",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167377,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Cadangan",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167377,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Cadangan",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167377,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Cadangan",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167377,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Cadangan",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 2
+    },
+    {
+      "sport_id": 195757,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Alternatif",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195757,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Alternatif",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195757,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Alternatif",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195757,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Alternatif",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195757,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Alternatif",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195757,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Alternatif",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195757,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Alternatif",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195757,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Alternatif",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195757,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Alternatif",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195757,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Alternatif",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195757,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Alternatif",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 19
+    },
+    {
+      "sport_id": 154936,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Akumulator",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 154936,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Akumulator",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 154936,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Akumulator",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 154936,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Akumulator",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 154936,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Akumulator",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 20
+    },
+    {
+      "sport_id": 154936,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Akumulator",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 154936,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Akumulator",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 154936,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Akumulator",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 154936,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Akumulator",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 154936,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Akumulator",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 154936,
+      "period": null,
+      "period_name": "",
+      "group": "Hasil Akumulator",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 194
+    },
+    {
+      "sport_id": 195763,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu. Statistik",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195763,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu. Statistik",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 2
+    },
+    {
+      "sport_id": 195763,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu. Statistik",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195763,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu. Statistik",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195763,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu. Statistik",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195763,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu. Statistik",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195763,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu. Statistik",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195763,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu. Statistik",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195763,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu. Statistik",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195763,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu. Statistik",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 195763,
+      "period": null,
+      "period_name": "",
+      "group": "Kartu. Statistik",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 51
+    },
+    {
+      "sport_id": 167383,
+      "period": null,
+      "period_name": "",
+      "group": "Taruhan Spesial",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167383,
+      "period": null,
+      "period_name": "",
+      "group": "Taruhan Spesial",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167383,
+      "period": null,
+      "period_name": "",
+      "group": "Taruhan Spesial",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167383,
+      "period": null,
+      "period_name": "",
+      "group": "Taruhan Spesial",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167383,
+      "period": null,
+      "period_name": "",
+      "group": "Taruhan Spesial",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167383,
+      "period": null,
+      "period_name": "",
+      "group": "Taruhan Spesial",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167383,
+      "period": null,
+      "period_name": "",
+      "group": "Taruhan Spesial",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167383,
+      "period": null,
+      "period_name": "",
+      "group": "Taruhan Spesial",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167383,
+      "period": null,
+      "period_name": "",
+      "group": "Taruhan Spesial",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167383,
+      "period": null,
+      "period_name": "",
+      "group": "Taruhan Spesial",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167383,
+      "period": null,
+      "period_name": "",
+      "group": "Taruhan Spesial",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 100
+    },
+    {
+      "sport_id": 167427,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik Pemain",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167427,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik Pemain",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167427,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik Pemain",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167427,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik Pemain",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 1194
+    },
+    {
+      "sport_id": 167427,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik Pemain",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 680
+    },
+    {
+      "sport_id": 167427,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik Pemain",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167427,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik Pemain",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167427,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik Pemain",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 74
+    },
+    {
+      "sport_id": 167427,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik Pemain",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167427,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik Pemain",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167427,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik Pemain",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 3649
+    },
+    {
+      "sport_id": 167441,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Statistik Pemain",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167441,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Statistik Pemain",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167441,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Statistik Pemain",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167441,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Statistik Pemain",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167441,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Statistik Pemain",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167441,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Statistik Pemain",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167441,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Statistik Pemain",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167441,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Statistik Pemain",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167441,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Statistik Pemain",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167441,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Statistik Pemain",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167441,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Statistik Pemain",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 17
+    },
+    {
+      "sport_id": 167447,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Statistik Pemain",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167447,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Statistik Pemain",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167447,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Statistik Pemain",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167447,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Statistik Pemain",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167447,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Statistik Pemain",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167447,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Statistik Pemain",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167447,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Statistik Pemain",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167447,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Statistik Pemain",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167447,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Statistik Pemain",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167447,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Statistik Pemain",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167447,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Statistik Pemain",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 18
+    },
+    {
+      "sport_id": 155422,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan gawang",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 45
+    },
+    {
+      "sport_id": 155422,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan gawang",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 28
+    },
+    {
+      "sport_id": 155422,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan gawang",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 14
+    },
+    {
+      "sport_id": 155422,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan gawang",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155422,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan gawang",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155422,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan gawang",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155422,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan gawang",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155422,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan gawang",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155422,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan gawang",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155422,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan gawang",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155422,
+      "period": null,
+      "period_name": "",
+      "group": "Tendangan gawang",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 49
+    },
+    {
+      "sport_id": 155453,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan gawang",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 22
+    },
+    {
+      "sport_id": 155453,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan gawang",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 10
+    },
+    {
+      "sport_id": 155453,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan gawang",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 6
+    },
+    {
+      "sport_id": 155453,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan gawang",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155453,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan gawang",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155453,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan gawang",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155453,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan gawang",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155453,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan gawang",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155453,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan gawang",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155453,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan gawang",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155453,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tendangan gawang",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 22
+    },
+    {
+      "sport_id": 181484,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan gawang",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 22
+    },
+    {
+      "sport_id": 181484,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan gawang",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 10
+    },
+    {
+      "sport_id": 181484,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan gawang",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 6
+    },
+    {
+      "sport_id": 181484,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan gawang",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 181484,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan gawang",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 181484,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan gawang",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 181484,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan gawang",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 181484,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan gawang",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 181484,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan gawang",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 181484,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan gawang",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 181484,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tendangan gawang",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 22
+    },
+    {
+      "sport_id": 155548,
+      "period": null,
+      "period_name": "",
+      "group": "Lemparan ke dalam",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 54
+    },
+    {
+      "sport_id": 155548,
+      "period": null,
+      "period_name": "",
+      "group": "Lemparan ke dalam",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 28
+    },
+    {
+      "sport_id": 155548,
+      "period": null,
+      "period_name": "",
+      "group": "Lemparan ke dalam",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 14
+    },
+    {
+      "sport_id": 155548,
+      "period": null,
+      "period_name": "",
+      "group": "Lemparan ke dalam",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155548,
+      "period": null,
+      "period_name": "",
+      "group": "Lemparan ke dalam",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155548,
+      "period": null,
+      "period_name": "",
+      "group": "Lemparan ke dalam",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155548,
+      "period": null,
+      "period_name": "",
+      "group": "Lemparan ke dalam",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 2
+    },
+    {
+      "sport_id": 155548,
+      "period": null,
+      "period_name": "",
+      "group": "Lemparan ke dalam",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 8
+    },
+    {
+      "sport_id": 155548,
+      "period": null,
+      "period_name": "",
+      "group": "Lemparan ke dalam",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155548,
+      "period": null,
+      "period_name": "",
+      "group": "Lemparan ke dalam",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155548,
+      "period": null,
+      "period_name": "",
+      "group": "Lemparan ke dalam",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 63
+    },
+    {
+      "sport_id": 155462,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Lemparan ke dalam",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 24
+    },
+    {
+      "sport_id": 155462,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Lemparan ke dalam",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 14
+    },
+    {
+      "sport_id": 155462,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Lemparan ke dalam",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 4
+    },
+    {
+      "sport_id": 155462,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Lemparan ke dalam",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155462,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Lemparan ke dalam",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155462,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Lemparan ke dalam",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155462,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Lemparan ke dalam",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155462,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Lemparan ke dalam",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155462,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Lemparan ke dalam",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155462,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Lemparan ke dalam",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155462,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Lemparan ke dalam",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 24
+    },
+    {
+      "sport_id": 202132,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian 1-menit",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 202132,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian 1-menit",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 202132,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian 1-menit",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 202132,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian 1-menit",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 202132,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian 1-menit",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 202132,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian 1-menit",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 3
+    },
+    {
+      "sport_id": 202132,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian 1-menit",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 202132,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian 1-menit",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 202132,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian 1-menit",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 202132,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian 1-menit",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 202132,
+      "period": null,
+      "period_name": "",
+      "group": "Kejadian 1-menit",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 5
+    },
+    {
+      "sport_id": 157778,
+      "period": null,
+      "period_name": "",
+      "group": "Penyelamatan",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 48
+    },
+    {
+      "sport_id": 157778,
+      "period": null,
+      "period_name": "",
+      "group": "Penyelamatan",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 30
+    },
+    {
+      "sport_id": 157778,
+      "period": null,
+      "period_name": "",
+      "group": "Penyelamatan",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 14
+    },
+    {
+      "sport_id": 157778,
+      "period": null,
+      "period_name": "",
+      "group": "Penyelamatan",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157778,
+      "period": null,
+      "period_name": "",
+      "group": "Penyelamatan",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157778,
+      "period": null,
+      "period_name": "",
+      "group": "Penyelamatan",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157778,
+      "period": null,
+      "period_name": "",
+      "group": "Penyelamatan",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157778,
+      "period": null,
+      "period_name": "",
+      "group": "Penyelamatan",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157778,
+      "period": null,
+      "period_name": "",
+      "group": "Penyelamatan",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157778,
+      "period": null,
+      "period_name": "",
+      "group": "Penyelamatan",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157778,
+      "period": null,
+      "period_name": "",
+      "group": "Penyelamatan",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 50
+    },
+    {
+      "sport_id": 157783,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Penyelamatan",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 22
+    },
+    {
+      "sport_id": 157783,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Penyelamatan",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 10
+    },
+    {
+      "sport_id": 157783,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Penyelamatan",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 6
+    },
+    {
+      "sport_id": 157783,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Penyelamatan",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157783,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Penyelamatan",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157783,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Penyelamatan",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157783,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Penyelamatan",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157783,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Penyelamatan",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157783,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Penyelamatan",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157783,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Penyelamatan",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157783,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Penyelamatan",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 22
+    },
+    {
+      "sport_id": 159203,
+      "period": null,
+      "period_name": "",
+      "group": "Pertama Terjadi",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 159203,
+      "period": null,
+      "period_name": "",
+      "group": "Pertama Terjadi",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 159203,
+      "period": null,
+      "period_name": "",
+      "group": "Pertama Terjadi",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 159203,
+      "period": null,
+      "period_name": "",
+      "group": "Pertama Terjadi",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 159203,
+      "period": null,
+      "period_name": "",
+      "group": "Pertama Terjadi",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 159203,
+      "period": null,
+      "period_name": "",
+      "group": "Pertama Terjadi",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 6
+    },
+    {
+      "sport_id": 159203,
+      "period": null,
+      "period_name": "",
+      "group": "Pertama Terjadi",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 159203,
+      "period": null,
+      "period_name": "",
+      "group": "Pertama Terjadi",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 159203,
+      "period": null,
+      "period_name": "",
+      "group": "Pertama Terjadi",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 159203,
+      "period": null,
+      "period_name": "",
+      "group": "Pertama Terjadi",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 159203,
+      "period": null,
+      "period_name": "",
+      "group": "Pertama Terjadi",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 41
+    },
+    {
+      "sport_id": 155447,
+      "period": null,
+      "period_name": "",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 59
+    },
+    {
+      "sport_id": 155447,
+      "period": null,
+      "period_name": "",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 42
+    },
+    {
+      "sport_id": 155447,
+      "period": null,
+      "period_name": "",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 14
+    },
+    {
+      "sport_id": 155447,
+      "period": null,
+      "period_name": "",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155447,
+      "period": null,
+      "period_name": "",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155447,
+      "period": null,
+      "period_name": "",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155447,
+      "period": null,
+      "period_name": "",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155447,
+      "period": null,
+      "period_name": "",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155447,
+      "period": null,
+      "period_name": "",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155447,
+      "period": null,
+      "period_name": "",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155447,
+      "period": null,
+      "period_name": "",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 67
+    },
+    {
+      "sport_id": 155562,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 21
+    },
+    {
+      "sport_id": 155562,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 10
+    },
+    {
+      "sport_id": 155562,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 6
+    },
+    {
+      "sport_id": 155562,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155562,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155562,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155562,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155562,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155562,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155562,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 155562,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 21
+    },
+    {
+      "sport_id": 232571,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 21
+    },
+    {
+      "sport_id": 232571,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 10
+    },
+    {
+      "sport_id": 232571,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 6
+    },
+    {
+      "sport_id": 232571,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232571,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232571,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232571,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232571,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232571,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232571,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 232571,
+      "period": 2,
+      "period_name": "Babak ke-2",
+      "group": "Tembakan Pada Gawang",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 21
+    },
+    {
+      "sport_id": 226400,
+      "period": null,
+      "period_name": "",
+      "group": "Tackle",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 24
+    },
+    {
+      "sport_id": 226400,
+      "period": null,
+      "period_name": "",
+      "group": "Tackle",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 12
+    },
+    {
+      "sport_id": 226400,
+      "period": null,
+      "period_name": "",
+      "group": "Tackle",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 6
+    },
+    {
+      "sport_id": 226400,
+      "period": null,
+      "period_name": "",
+      "group": "Tackle",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226400,
+      "period": null,
+      "period_name": "",
+      "group": "Tackle",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226400,
+      "period": null,
+      "period_name": "",
+      "group": "Tackle",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226400,
+      "period": null,
+      "period_name": "",
+      "group": "Tackle",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226400,
+      "period": null,
+      "period_name": "",
+      "group": "Tackle",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226400,
+      "period": null,
+      "period_name": "",
+      "group": "Tackle",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226400,
+      "period": null,
+      "period_name": "",
+      "group": "Tackle",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226400,
+      "period": null,
+      "period_name": "",
+      "group": "Tackle",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 26
+    },
+    {
+      "sport_id": 226429,
+      "period": null,
+      "period_name": "",
+      "group": "Dribbling",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 25
+    },
+    {
+      "sport_id": 226429,
+      "period": null,
+      "period_name": "",
+      "group": "Dribbling",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 12
+    },
+    {
+      "sport_id": 226429,
+      "period": null,
+      "period_name": "",
+      "group": "Dribbling",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 6
+    },
+    {
+      "sport_id": 226429,
+      "period": null,
+      "period_name": "",
+      "group": "Dribbling",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226429,
+      "period": null,
+      "period_name": "",
+      "group": "Dribbling",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226429,
+      "period": null,
+      "period_name": "",
+      "group": "Dribbling",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226429,
+      "period": null,
+      "period_name": "",
+      "group": "Dribbling",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226429,
+      "period": null,
+      "period_name": "",
+      "group": "Dribbling",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226429,
+      "period": null,
+      "period_name": "",
+      "group": "Dribbling",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226429,
+      "period": null,
+      "period_name": "",
+      "group": "Dribbling",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 226429,
+      "period": null,
+      "period_name": "",
+      "group": "Dribbling",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 27
+    },
+    {
+      "sport_id": 157780,
+      "period": null,
+      "period_name": "",
+      "group": "Duel udara",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 4
+    },
+    {
+      "sport_id": 157780,
+      "period": null,
+      "period_name": "",
+      "group": "Duel udara",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 2
+    },
+    {
+      "sport_id": 157780,
+      "period": null,
+      "period_name": "",
+      "group": "Duel udara",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 2
+    },
+    {
+      "sport_id": 157780,
+      "period": null,
+      "period_name": "",
+      "group": "Duel udara",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157780,
+      "period": null,
+      "period_name": "",
+      "group": "Duel udara",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157780,
+      "period": null,
+      "period_name": "",
+      "group": "Duel udara",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157780,
+      "period": null,
+      "period_name": "",
+      "group": "Duel udara",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157780,
+      "period": null,
+      "period_name": "",
+      "group": "Duel udara",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157780,
+      "period": null,
+      "period_name": "",
+      "group": "Duel udara",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157780,
+      "period": null,
+      "period_name": "",
+      "group": "Duel udara",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157780,
+      "period": null,
+      "period_name": "",
+      "group": "Duel udara",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 4
+    },
+    {
+      "sport_id": 157781,
+      "period": null,
+      "period_name": "",
+      "group": "Gol yang diharapkan",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 6
+    },
+    {
+      "sport_id": 157781,
+      "period": null,
+      "period_name": "",
+      "group": "Gol yang diharapkan",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 2
+    },
+    {
+      "sport_id": 157781,
+      "period": null,
+      "period_name": "",
+      "group": "Gol yang diharapkan",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 4
+    },
+    {
+      "sport_id": 157781,
+      "period": null,
+      "period_name": "",
+      "group": "Gol yang diharapkan",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157781,
+      "period": null,
+      "period_name": "",
+      "group": "Gol yang diharapkan",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157781,
+      "period": null,
+      "period_name": "",
+      "group": "Gol yang diharapkan",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157781,
+      "period": null,
+      "period_name": "",
+      "group": "Gol yang diharapkan",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157781,
+      "period": null,
+      "period_name": "",
+      "group": "Gol yang diharapkan",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157781,
+      "period": null,
+      "period_name": "",
+      "group": "Gol yang diharapkan",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157781,
+      "period": null,
+      "period_name": "",
+      "group": "Gol yang diharapkan",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157781,
+      "period": null,
+      "period_name": "",
+      "group": "Gol yang diharapkan",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 6
+    },
+    {
+      "sport_id": 157785,
+      "period": null,
+      "period_name": "",
+      "group": "Intersepsi",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 25
+    },
+    {
+      "sport_id": 157785,
+      "period": null,
+      "period_name": "",
+      "group": "Intersepsi",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 12
+    },
+    {
+      "sport_id": 157785,
+      "period": null,
+      "period_name": "",
+      "group": "Intersepsi",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 6
+    },
+    {
+      "sport_id": 157785,
+      "period": null,
+      "period_name": "",
+      "group": "Intersepsi",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157785,
+      "period": null,
+      "period_name": "",
+      "group": "Intersepsi",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157785,
+      "period": null,
+      "period_name": "",
+      "group": "Intersepsi",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157785,
+      "period": null,
+      "period_name": "",
+      "group": "Intersepsi",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157785,
+      "period": null,
+      "period_name": "",
+      "group": "Intersepsi",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157785,
+      "period": null,
+      "period_name": "",
+      "group": "Intersepsi",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157785,
+      "period": null,
+      "period_name": "",
+      "group": "Intersepsi",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157785,
+      "period": null,
+      "period_name": "",
+      "group": "Intersepsi",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 27
+    },
+    {
+      "sport_id": 167453,
+      "period": null,
+      "period_name": "",
+      "group": "Pengecekan VAR",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167453,
+      "period": null,
+      "period_name": "",
+      "group": "Pengecekan VAR",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167453,
+      "period": null,
+      "period_name": "",
+      "group": "Pengecekan VAR",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167453,
+      "period": null,
+      "period_name": "",
+      "group": "Pengecekan VAR",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167453,
+      "period": null,
+      "period_name": "",
+      "group": "Pengecekan VAR",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167453,
+      "period": null,
+      "period_name": "",
+      "group": "Pengecekan VAR",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167453,
+      "period": null,
+      "period_name": "",
+      "group": "Pengecekan VAR",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167453,
+      "period": null,
+      "period_name": "",
+      "group": "Pengecekan VAR",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167453,
+      "period": null,
+      "period_name": "",
+      "group": "Pengecekan VAR",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167453,
+      "period": null,
+      "period_name": "",
+      "group": "Pengecekan VAR",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167453,
+      "period": null,
+      "period_name": "",
+      "group": "Pengecekan VAR",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 9
+    },
+    {
+      "sport_id": 157806,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pengecekan VAR",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157806,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pengecekan VAR",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157806,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pengecekan VAR",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157806,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pengecekan VAR",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157806,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pengecekan VAR",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157806,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pengecekan VAR",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157806,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pengecekan VAR",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157806,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pengecekan VAR",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157806,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pengecekan VAR",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157806,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pengecekan VAR",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157806,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Pengecekan VAR",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 2
+    },
+    {
+      "sport_id": 167473,
+      "period": null,
+      "period_name": "",
+      "group": "Tim medis",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167473,
+      "period": null,
+      "period_name": "",
+      "group": "Tim medis",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167473,
+      "period": null,
+      "period_name": "",
+      "group": "Tim medis",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167473,
+      "period": null,
+      "period_name": "",
+      "group": "Tim medis",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167473,
+      "period": null,
+      "period_name": "",
+      "group": "Tim medis",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167473,
+      "period": null,
+      "period_name": "",
+      "group": "Tim medis",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167473,
+      "period": null,
+      "period_name": "",
+      "group": "Tim medis",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167473,
+      "period": null,
+      "period_name": "",
+      "group": "Tim medis",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167473,
+      "period": null,
+      "period_name": "",
+      "group": "Tim medis",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167473,
+      "period": null,
+      "period_name": "",
+      "group": "Tim medis",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 167473,
+      "period": null,
+      "period_name": "",
+      "group": "Tim medis",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 4
+    },
+    {
+      "sport_id": 157808,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tim medis",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157808,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tim medis",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157808,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tim medis",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157808,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tim medis",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157808,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tim medis",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157808,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tim medis",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157808,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tim medis",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157808,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tim medis",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157808,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tim medis",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157808,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tim medis",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157808,
+      "period": 1,
+      "period_name": "Babak pertama",
+      "group": "Tim medis",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 2
+    },
+    {
+      "sport_id": 157811,
+      "period": null,
+      "period_name": "",
+      "group": "Operan",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157811,
+      "period": null,
+      "period_name": "",
+      "group": "Operan",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157811,
+      "period": null,
+      "period_name": "",
+      "group": "Operan",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157811,
+      "period": null,
+      "period_name": "",
+      "group": "Operan",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157811,
+      "period": null,
+      "period_name": "",
+      "group": "Operan",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157811,
+      "period": null,
+      "period_name": "",
+      "group": "Operan",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157811,
+      "period": null,
+      "period_name": "",
+      "group": "Operan",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157811,
+      "period": null,
+      "period_name": "",
+      "group": "Operan",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157811,
+      "period": null,
+      "period_name": "",
+      "group": "Operan",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157811,
+      "period": null,
+      "period_name": "",
+      "group": "Operan",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 157811,
+      "period": null,
+      "period_name": "",
+      "group": "Operan",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 4
+    },
+    {
+      "sport_id": 199005,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik pemain (termasuk waktu tambahan)",
+      "market_type": 2,
+      "market_name": "Populer",
+      "event_count": 0
+    },
+    {
+      "sport_id": 199005,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik pemain (termasuk waktu tambahan)",
+      "market_type": 3,
+      "market_name": "Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 199005,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik pemain (termasuk waktu tambahan)",
+      "market_type": 4,
+      "market_name": "Handicap",
+      "event_count": 0
+    },
+    {
+      "sport_id": 199005,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik pemain (termasuk waktu tambahan)",
+      "market_type": 5,
+      "market_name": "Pemain",
+      "event_count": 48
+    },
+    {
+      "sport_id": 199005,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik pemain (termasuk waktu tambahan)",
+      "market_type": 6,
+      "market_name": "Gol",
+      "event_count": 0
+    },
+    {
+      "sport_id": 199005,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik pemain (termasuk waktu tambahan)",
+      "market_type": 7,
+      "market_name": "Interval",
+      "event_count": 0
+    },
+    {
+      "sport_id": 199005,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik pemain (termasuk waktu tambahan)",
+      "market_type": 8,
+      "market_name": "Lainnya",
+      "event_count": 0
+    },
+    {
+      "sport_id": 199005,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik pemain (termasuk waktu tambahan)",
+      "market_type": 12,
+      "market_name": "Hasil + Total",
+      "event_count": 0
+    },
+    {
+      "sport_id": 199005,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik pemain (termasuk waktu tambahan)",
+      "market_type": 13,
+      "market_name": "Pasar-pasar Asia",
+      "event_count": 0
+    },
+    {
+      "sport_id": 199005,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik pemain (termasuk waktu tambahan)",
+      "market_type": 19,
+      "market_name": "OptionBet",
+      "event_count": 0
+    },
+    {
+      "sport_id": 199005,
+      "period": null,
+      "period_name": "",
+      "group": "Statistik pemain (termasuk waktu tambahan)",
+      "market_type": 1,
+      "market_name": "Semua pasar",
+      "event_count": 1770
+    }
+  ]
+}

@@ -1,0 +1,2226 @@
+{
+  "Mexico": {
+    "nama_tim": "Mexico",
+    "grup": "Group A",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "M",
+      "M",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 6,
+      "gol_kemalingan": 0,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "01 Jul 2026",
+        "lawan": "Ecuador",
+        "skor": "2 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "25 Jun 2026",
+        "lawan": "Czechia",
+        "skor": "3 - 0",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "19 Jun 2026",
+        "lawan": "South Korea",
+        "skor": "1 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "11 Jun 2026",
+        "lawan": "South Africa",
+        "skor": "2 - 0",
+        "status": "M",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "South Africa": {
+    "nama_tim": "South Africa",
+    "grup": "Group A",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "S",
+      "M",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 2,
+      "gol_kemalingan": 3,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "28 Jun 2026",
+        "lawan": "Canada",
+        "skor": "0 - 1",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "25 Jun 2026",
+        "lawan": "South Korea",
+        "skor": "1 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "18 Jun 2026",
+        "lawan": "Czechia",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "11 Jun 2026",
+        "lawan": "Mexico",
+        "skor": "0 - 2",
+        "status": "K",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "South Korea": {
+    "nama_tim": "South Korea",
+    "grup": "Group A",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "K",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 2,
+      "gol_kemalingan": 3,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "25 Jun 2026",
+        "lawan": "South Africa",
+        "skor": "0 - 1",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "19 Jun 2026",
+        "lawan": "Mexico",
+        "skor": "0 - 1",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "12 Jun 2026",
+        "lawan": "Czechia",
+        "skor": "2 - 1",
+        "status": "M",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Czechia": {
+    "nama_tim": "Czechia",
+    "grup": "Group A",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "S",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 2,
+      "gol_kemalingan": 6,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "25 Jun 2026",
+        "lawan": "Mexico",
+        "skor": "0 - 3",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "18 Jun 2026",
+        "lawan": "South Africa",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "12 Jun 2026",
+        "lawan": "South Korea",
+        "skor": "1 - 2",
+        "status": "K",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Switzerland": {
+    "nama_tim": "Switzerland",
+    "grup": "Group B",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "M",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 7,
+      "gol_kemalingan": 3,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "24 Jun 2026",
+        "lawan": "Canada",
+        "skor": "2 - 1",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "18 Jun 2026",
+        "lawan": "Bosnia-Herzegovina",
+        "skor": "4 - 1",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "13 Jun 2026",
+        "lawan": "Qatar",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Canada": {
+    "nama_tim": "Canada",
+    "grup": "Group B",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "M",
+      "K",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 8,
+      "gol_kemalingan": 3,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "28 Jun 2026",
+        "lawan": "South Africa",
+        "skor": "1 - 0",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "24 Jun 2026",
+        "lawan": "Switzerland",
+        "skor": "1 - 2",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "18 Jun 2026",
+        "lawan": "Qatar",
+        "skor": "6 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "12 Jun 2026",
+        "lawan": "Bosnia-Herzegovina",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Bosnia-Herzegovina": {
+    "nama_tim": "Bosnia-Herzegovina",
+    "grup": "Group B",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "K",
+      "M",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 5,
+      "gol_kemalingan": 6,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "02 Jul 2026",
+        "lawan": "United States",
+        "skor": "0 - 2",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "24 Jun 2026",
+        "lawan": "Qatar",
+        "skor": "3 - 1",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "18 Jun 2026",
+        "lawan": "Switzerland",
+        "skor": "1 - 4",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "12 Jun 2026",
+        "lawan": "Canada",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Qatar": {
+    "nama_tim": "Qatar",
+    "grup": "Group B",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "K",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 2,
+      "gol_kemalingan": 10,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "24 Jun 2026",
+        "lawan": "Bosnia-Herzegovina",
+        "skor": "1 - 3",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "18 Jun 2026",
+        "lawan": "Canada",
+        "skor": "0 - 6",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "13 Jun 2026",
+        "lawan": "Switzerland",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Brazil": {
+    "nama_tim": "Brazil",
+    "grup": "Group C",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "M",
+      "M",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 7,
+      "gol_kemalingan": 1,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "29 Jun 2026",
+        "lawan": "Japan",
+        "skor": "2 - 1",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "24 Jun 2026",
+        "lawan": "Scotland",
+        "skor": "3 - 0",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "20 Jun 2026",
+        "lawan": "Haiti",
+        "skor": "3 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "13 Jun 2026",
+        "lawan": "Morocco",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Morocco": {
+    "nama_tim": "Morocco",
+    "grup": "Group C",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "M",
+      "M",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 6,
+      "gol_kemalingan": 3,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "30 Jun 2026",
+        "lawan": "Netherlands",
+        "skor": "4 - 3",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "24 Jun 2026",
+        "lawan": "Haiti",
+        "skor": "4 - 2",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "19 Jun 2026",
+        "lawan": "Scotland",
+        "skor": "1 - 0",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "13 Jun 2026",
+        "lawan": "Brazil",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Scotland": {
+    "nama_tim": "Scotland",
+    "grup": "Group C",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "K",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 1,
+      "gol_kemalingan": 4,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "24 Jun 2026",
+        "lawan": "Brazil",
+        "skor": "0 - 3",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "19 Jun 2026",
+        "lawan": "Morocco",
+        "skor": "0 - 1",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "14 Jun 2026",
+        "lawan": "Haiti",
+        "skor": "1 - 0",
+        "status": "M",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Haiti": {
+    "nama_tim": "Haiti",
+    "grup": "Group C",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "K",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 2,
+      "gol_kemalingan": 8,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "24 Jun 2026",
+        "lawan": "Morocco",
+        "skor": "2 - 4",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "20 Jun 2026",
+        "lawan": "Brazil",
+        "skor": "0 - 3",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "14 Jun 2026",
+        "lawan": "Scotland",
+        "skor": "0 - 1",
+        "status": "K",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "United States": {
+    "nama_tim": "United States",
+    "grup": "Group D",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "M",
+      "K",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 8,
+      "gol_kemalingan": 4,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "02 Jul 2026",
+        "lawan": "Bosnia-Herzegovina",
+        "skor": "2 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "26 Jun 2026",
+        "lawan": "Turkey",
+        "skor": "2 - 3",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "19 Jun 2026",
+        "lawan": "Australia",
+        "skor": "2 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "13 Jun 2026",
+        "lawan": "Paraguay",
+        "skor": "4 - 1",
+        "status": "M",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Australia": {
+    "nama_tim": "Australia",
+    "grup": "Group D",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "K",
+      "S"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 2,
+      "gol_kemalingan": 2,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "26 Jun 2026",
+        "lawan": "Paraguay",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "19 Jun 2026",
+        "lawan": "United States",
+        "skor": "0 - 2",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "14 Jun 2026",
+        "lawan": "Turkey",
+        "skor": "2 - 0",
+        "status": "M",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Paraguay": {
+    "nama_tim": "Paraguay",
+    "grup": "Group D",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "M",
+      "S",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 2,
+      "gol_kemalingan": 4,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "29 Jun 2026",
+        "lawan": "Germany",
+        "skor": "5 - 4",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "26 Jun 2026",
+        "lawan": "Australia",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "20 Jun 2026",
+        "lawan": "Turkey",
+        "skor": "1 - 0",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "13 Jun 2026",
+        "lawan": "United States",
+        "skor": "1 - 4",
+        "status": "K",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Turkey": {
+    "nama_tim": "Turkey",
+    "grup": "Group D",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "K",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 3,
+      "gol_kemalingan": 5,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "26 Jun 2026",
+        "lawan": "United States",
+        "skor": "3 - 2",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "20 Jun 2026",
+        "lawan": "Paraguay",
+        "skor": "0 - 1",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "14 Jun 2026",
+        "lawan": "Australia",
+        "skor": "0 - 2",
+        "status": "K",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Germany": {
+    "nama_tim": "Germany",
+    "grup": "Group E",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "M",
+      "K",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 10,
+      "gol_kemalingan": 4,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "29 Jun 2026",
+        "lawan": "Paraguay",
+        "skor": "4 - 5",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "25 Jun 2026",
+        "lawan": "Ecuador",
+        "skor": "1 - 2",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "20 Jun 2026",
+        "lawan": "Ivory Coast",
+        "skor": "2 - 1",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "14 Jun 2026",
+        "lawan": "Cura\u00e7ao",
+        "skor": "7 - 1",
+        "status": "M",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Ivory Coast": {
+    "nama_tim": "Ivory Coast",
+    "grup": "Group E",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "K",
+      "M",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 4,
+      "gol_kemalingan": 2,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "30 Jun 2026",
+        "lawan": "Norway",
+        "skor": "1 - 2",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "25 Jun 2026",
+        "lawan": "Cura\u00e7ao",
+        "skor": "2 - 0",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "20 Jun 2026",
+        "lawan": "Germany",
+        "skor": "1 - 2",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "14 Jun 2026",
+        "lawan": "Ecuador",
+        "skor": "1 - 0",
+        "status": "M",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Ecuador": {
+    "nama_tim": "Ecuador",
+    "grup": "Group E",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "S",
+      "M",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 2,
+      "gol_kemalingan": 2,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "01 Jul 2026",
+        "lawan": "Mexico",
+        "skor": "0 - 2",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "25 Jun 2026",
+        "lawan": "Germany",
+        "skor": "2 - 1",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "21 Jun 2026",
+        "lawan": "Cura\u00e7ao",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "14 Jun 2026",
+        "lawan": "Ivory Coast",
+        "skor": "0 - 1",
+        "status": "K",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Cura\u00e7ao": {
+    "nama_tim": "Cura\u00e7ao",
+    "grup": "Group E",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "S",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 1,
+      "gol_kemalingan": 9,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "25 Jun 2026",
+        "lawan": "Ivory Coast",
+        "skor": "0 - 2",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "21 Jun 2026",
+        "lawan": "Ecuador",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "14 Jun 2026",
+        "lawan": "Germany",
+        "skor": "1 - 7",
+        "status": "K",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Netherlands": {
+    "nama_tim": "Netherlands",
+    "grup": "Group F",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "M",
+      "M",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 10,
+      "gol_kemalingan": 4,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "30 Jun 2026",
+        "lawan": "Morocco",
+        "skor": "3 - 4",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "25 Jun 2026",
+        "lawan": "Tunisia",
+        "skor": "3 - 1",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "20 Jun 2026",
+        "lawan": "Sweden",
+        "skor": "5 - 1",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "14 Jun 2026",
+        "lawan": "Japan",
+        "skor": "2 - 2",
+        "status": "S",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Japan": {
+    "nama_tim": "Japan",
+    "grup": "Group F",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "M",
+      "S",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 7,
+      "gol_kemalingan": 3,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "29 Jun 2026",
+        "lawan": "Brazil",
+        "skor": "1 - 2",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "25 Jun 2026",
+        "lawan": "Sweden",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "21 Jun 2026",
+        "lawan": "Tunisia",
+        "skor": "4 - 0",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "14 Jun 2026",
+        "lawan": "Netherlands",
+        "skor": "2 - 2",
+        "status": "S",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Sweden": {
+    "nama_tim": "Sweden",
+    "grup": "Group F",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "K",
+      "S",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 7,
+      "gol_kemalingan": 7,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "30 Jun 2026",
+        "lawan": "France",
+        "skor": "0 - 3",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "25 Jun 2026",
+        "lawan": "Japan",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "20 Jun 2026",
+        "lawan": "Netherlands",
+        "skor": "1 - 5",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "15 Jun 2026",
+        "lawan": "Tunisia",
+        "skor": "5 - 1",
+        "status": "M",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Tunisia": {
+    "nama_tim": "Tunisia",
+    "grup": "Group F",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "K",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 2,
+      "gol_kemalingan": 12,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "25 Jun 2026",
+        "lawan": "Netherlands",
+        "skor": "1 - 3",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "21 Jun 2026",
+        "lawan": "Japan",
+        "skor": "0 - 4",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "15 Jun 2026",
+        "lawan": "Sweden",
+        "skor": "1 - 5",
+        "status": "K",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Belgium": {
+    "nama_tim": "Belgium",
+    "grup": "Group G",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "S",
+      "M",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 6,
+      "gol_kemalingan": 2,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "01 Jul 2026",
+        "lawan": "Senegal",
+        "skor": "3 - 2",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "New Zealand",
+        "skor": "5 - 1",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "21 Jun 2026",
+        "lawan": "Iran",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "15 Jun 2026",
+        "lawan": "Egypt",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Egypt": {
+    "nama_tim": "Egypt",
+    "grup": "Group G",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "M",
+      "S"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 5,
+      "gol_kemalingan": 3,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Iran",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "22 Jun 2026",
+        "lawan": "New Zealand",
+        "skor": "3 - 1",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "15 Jun 2026",
+        "lawan": "Belgium",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Iran": {
+    "nama_tim": "Iran",
+    "grup": "Group G",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "S",
+      "S"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 3,
+      "gol_kemalingan": 3,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Egypt",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "21 Jun 2026",
+        "lawan": "Belgium",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "16 Jun 2026",
+        "lawan": "New Zealand",
+        "skor": "2 - 2",
+        "status": "S",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "New Zealand": {
+    "nama_tim": "New Zealand",
+    "grup": "Group G",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "K",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 4,
+      "gol_kemalingan": 10,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Belgium",
+        "skor": "1 - 5",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "22 Jun 2026",
+        "lawan": "Egypt",
+        "skor": "1 - 3",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "16 Jun 2026",
+        "lawan": "Iran",
+        "skor": "2 - 2",
+        "status": "S",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Spain": {
+    "nama_tim": "Spain",
+    "grup": "Group H",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "M",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 5,
+      "gol_kemalingan": 0,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Uruguay",
+        "skor": "1 - 0",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "21 Jun 2026",
+        "lawan": "Saudi Arabia",
+        "skor": "4 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "15 Jun 2026",
+        "lawan": "Cape Verde Islands",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Cape Verde Islands": {
+    "nama_tim": "Cape Verde Islands",
+    "grup": "Group H",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "S",
+      "S"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 2,
+      "gol_kemalingan": 2,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Saudi Arabia",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "21 Jun 2026",
+        "lawan": "Uruguay",
+        "skor": "2 - 2",
+        "status": "S",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "15 Jun 2026",
+        "lawan": "Spain",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Uruguay": {
+    "nama_tim": "Uruguay",
+    "grup": "Group H",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "S",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 3,
+      "gol_kemalingan": 4,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Spain",
+        "skor": "0 - 1",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "21 Jun 2026",
+        "lawan": "Cape Verde Islands",
+        "skor": "2 - 2",
+        "status": "S",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "15 Jun 2026",
+        "lawan": "Saudi Arabia",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Saudi Arabia": {
+    "nama_tim": "Saudi Arabia",
+    "grup": "Group H",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "K",
+      "S"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 1,
+      "gol_kemalingan": 5,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Cape Verde Islands",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "21 Jun 2026",
+        "lawan": "Spain",
+        "skor": "0 - 4",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "15 Jun 2026",
+        "lawan": "Uruguay",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "France": {
+    "nama_tim": "France",
+    "grup": "Group I",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "M",
+      "M",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 10,
+      "gol_kemalingan": 2,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "30 Jun 2026",
+        "lawan": "Sweden",
+        "skor": "3 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "26 Jun 2026",
+        "lawan": "Norway",
+        "skor": "4 - 1",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "22 Jun 2026",
+        "lawan": "Iraq",
+        "skor": "3 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "16 Jun 2026",
+        "lawan": "Senegal",
+        "skor": "3 - 1",
+        "status": "M",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Norway": {
+    "nama_tim": "Norway",
+    "grup": "Group I",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "M",
+      "K",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 8,
+      "gol_kemalingan": 7,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "30 Jun 2026",
+        "lawan": "Ivory Coast",
+        "skor": "2 - 1",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "26 Jun 2026",
+        "lawan": "France",
+        "skor": "1 - 4",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "23 Jun 2026",
+        "lawan": "Senegal",
+        "skor": "3 - 2",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "16 Jun 2026",
+        "lawan": "Iraq",
+        "skor": "4 - 1",
+        "status": "M",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Senegal": {
+    "nama_tim": "Senegal",
+    "grup": "Group I",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "K",
+      "M",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 8,
+      "gol_kemalingan": 6,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "01 Jul 2026",
+        "lawan": "Belgium",
+        "skor": "2 - 3",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "26 Jun 2026",
+        "lawan": "Iraq",
+        "skor": "5 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "23 Jun 2026",
+        "lawan": "Norway",
+        "skor": "2 - 3",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "16 Jun 2026",
+        "lawan": "France",
+        "skor": "1 - 3",
+        "status": "K",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Iraq": {
+    "nama_tim": "Iraq",
+    "grup": "Group I",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "K",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 1,
+      "gol_kemalingan": 12,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "26 Jun 2026",
+        "lawan": "Senegal",
+        "skor": "0 - 5",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "22 Jun 2026",
+        "lawan": "France",
+        "skor": "0 - 3",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "16 Jun 2026",
+        "lawan": "Norway",
+        "skor": "1 - 4",
+        "status": "K",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Argentina": {
+    "nama_tim": "Argentina",
+    "grup": "Group J",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "M",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 8,
+      "gol_kemalingan": 1,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "28 Jun 2026",
+        "lawan": "Jordan",
+        "skor": "3 - 1",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "22 Jun 2026",
+        "lawan": "Austria",
+        "skor": "2 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "17 Jun 2026",
+        "lawan": "Algeria",
+        "skor": "3 - 0",
+        "status": "M",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Austria": {
+    "nama_tim": "Austria",
+    "grup": "Group J",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "K",
+      "S"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 6,
+      "gol_kemalingan": 6,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "28 Jun 2026",
+        "lawan": "Algeria",
+        "skor": "3 - 3",
+        "status": "S",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "22 Jun 2026",
+        "lawan": "Argentina",
+        "skor": "0 - 2",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "17 Jun 2026",
+        "lawan": "Jordan",
+        "skor": "3 - 1",
+        "status": "M",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Algeria": {
+    "nama_tim": "Algeria",
+    "grup": "Group J",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "M",
+      "S"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 5,
+      "gol_kemalingan": 7,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "28 Jun 2026",
+        "lawan": "Austria",
+        "skor": "3 - 3",
+        "status": "S",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "23 Jun 2026",
+        "lawan": "Jordan",
+        "skor": "2 - 1",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "17 Jun 2026",
+        "lawan": "Argentina",
+        "skor": "0 - 3",
+        "status": "K",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Jordan": {
+    "nama_tim": "Jordan",
+    "grup": "Group J",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "K",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 3,
+      "gol_kemalingan": 8,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "28 Jun 2026",
+        "lawan": "Argentina",
+        "skor": "1 - 3",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "23 Jun 2026",
+        "lawan": "Algeria",
+        "skor": "1 - 2",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "17 Jun 2026",
+        "lawan": "Austria",
+        "skor": "1 - 3",
+        "status": "K",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Colombia": {
+    "nama_tim": "Colombia",
+    "grup": "Group K",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "M",
+      "S"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 4,
+      "gol_kemalingan": 1,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Portugal",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "24 Jun 2026",
+        "lawan": "Congo DR",
+        "skor": "1 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "18 Jun 2026",
+        "lawan": "Uzbekistan",
+        "skor": "3 - 1",
+        "status": "M",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Portugal": {
+    "nama_tim": "Portugal",
+    "grup": "Group K",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "M",
+      "S"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 6,
+      "gol_kemalingan": 1,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Colombia",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "23 Jun 2026",
+        "lawan": "Uzbekistan",
+        "skor": "5 - 0",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "17 Jun 2026",
+        "lawan": "Congo DR",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Congo DR": {
+    "nama_tim": "Congo DR",
+    "grup": "Group K",
+    "logo": "",
+    "tren_performa": [
+      "S",
+      "K",
+      "M",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 4,
+      "gol_kemalingan": 3,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "01 Jul 2026",
+        "lawan": "England",
+        "skor": "1 - 2",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Uzbekistan",
+        "skor": "3 - 1",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "24 Jun 2026",
+        "lawan": "Colombia",
+        "skor": "0 - 1",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "17 Jun 2026",
+        "lawan": "Portugal",
+        "skor": "1 - 1",
+        "status": "S",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Uzbekistan": {
+    "nama_tim": "Uzbekistan",
+    "grup": "Group K",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "K",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 2,
+      "gol_kemalingan": 11,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Congo DR",
+        "skor": "1 - 3",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "23 Jun 2026",
+        "lawan": "Portugal",
+        "skor": "0 - 5",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "18 Jun 2026",
+        "lawan": "Colombia",
+        "skor": "1 - 3",
+        "status": "K",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "England": {
+    "nama_tim": "England",
+    "grup": "Group L",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "S",
+      "M",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 6,
+      "gol_kemalingan": 2,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "01 Jul 2026",
+        "lawan": "Congo DR",
+        "skor": "2 - 1",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Panama",
+        "skor": "2 - 0",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "23 Jun 2026",
+        "lawan": "Ghana",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "17 Jun 2026",
+        "lawan": "Croatia",
+        "skor": "4 - 2",
+        "status": "M",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Croatia": {
+    "nama_tim": "Croatia",
+    "grup": "Group L",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "M",
+      "M"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 5,
+      "gol_kemalingan": 5,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Ghana",
+        "skor": "2 - 1",
+        "status": "M",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "23 Jun 2026",
+        "lawan": "Panama",
+        "skor": "1 - 0",
+        "status": "M",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "17 Jun 2026",
+        "lawan": "England",
+        "skor": "2 - 4",
+        "status": "K",
+        "posisi": "Away"
+      }
+    ]
+  },
+  "Ghana": {
+    "nama_tim": "Ghana",
+    "grup": "Group L",
+    "logo": "",
+    "tren_performa": [
+      "M",
+      "S",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 2,
+      "gol_kemalingan": 2,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "Croatia",
+        "skor": "1 - 2",
+        "status": "K",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "23 Jun 2026",
+        "lawan": "England",
+        "skor": "0 - 0",
+        "status": "S",
+        "posisi": "Away"
+      },
+      {
+        "tanggal": "17 Jun 2026",
+        "lawan": "Panama",
+        "skor": "1 - 0",
+        "status": "M",
+        "posisi": "Home"
+      }
+    ]
+  },
+  "Panama": {
+    "nama_tim": "Panama",
+    "grup": "Group L",
+    "logo": "",
+    "tren_performa": [
+      "K",
+      "K",
+      "K"
+    ],
+    "statistik_5_laga": {
+      "gol_dicetak": 0,
+      "gol_kemalingan": 4,
+      "rata_penguasaan_bola": 0,
+      "total_shots_on_target": 0,
+      "clean_sheets": 0,
+      "pelanggaran": 0,
+      "kartu_kuning": 0,
+      "kartu_merah": 0
+    },
+    "riwayat_pertandingan": [
+      {
+        "tanggal": "27 Jun 2026",
+        "lawan": "England",
+        "skor": "0 - 2",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "23 Jun 2026",
+        "lawan": "Croatia",
+        "skor": "0 - 1",
+        "status": "K",
+        "posisi": "Home"
+      },
+      {
+        "tanggal": "17 Jun 2026",
+        "lawan": "Ghana",
+        "skor": "0 - 1",
+        "status": "K",
+        "posisi": "Away"
+      }
+    ]
+  }
+}
