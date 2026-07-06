@@ -1,5 +1,5 @@
 from fastapi import APIRouter, HTTPException, Query
-from prediction import predict, predict_with_custom_logic
+from prediction import predict, predict_with_custom_logic, generate_analysis
 from database import get_db
 from data.markets import all_market_odds
 import json
@@ -26,6 +26,28 @@ def _compute_prediction_for_match(match, conn):
     odds_h = match.get('odds_home') or 2.0
     odds_d = match.get('odds_draw') or 3.0
     odds_a = match.get('odds_away') or 4.0
+    team_stats = {
+        'home': {
+            'name': match['home_team'],
+            'form': home_team['form'] if home_team else '',
+            'position': home_team['position'] if home_team else None,
+            'points': home_team['points'] if home_team else 0,
+            'played': home_team['played'] if home_team else 0,
+            'won': home_team['won'] if home_team else 0,
+            'drawn': home_team['drawn'] if home_team else 0,
+            'lost': home_team['lost'] if home_team else 0,
+        },
+        'away': {
+            'name': match['away_team'],
+            'form': away_team['form'] if away_team else '',
+            'position': away_team['position'] if away_team else None,
+            'points': away_team['points'] if away_team else 0,
+            'played': away_team['played'] if away_team else 0,
+            'won': away_team['won'] if away_team else 0,
+            'drawn': away_team['drawn'] if away_team else 0,
+            'lost': away_team['lost'] if away_team else 0,
+        },
+    }
     match_data = {
         'form_home': home_team['form'] if home_team else '',
         'form_away': away_team['form'] if away_team else '',
@@ -44,14 +66,20 @@ def _compute_prediction_for_match(match, conn):
         result = predict_with_custom_logic(match_data, [dict(r) for r in rules])
     else:
         result = predict(match_data)
+
+    analysis = generate_analysis(match_data, result, team_stats)
+
     return {
         'winner': result['winner'],
         'confidence': result['confidence'],
         'scores': result['scores'],
+        'breakdown': result.get('breakdown', {}),
+        'analysis': analysis,
+        'team_stats': team_stats,
     }
 
 @router.get('/matches')
-async def get_matches(league: str = None, date: str = None, predictions: bool = Query(False)):
+async def get_matches(league: str = None, date: str = None, predictions: bool = Query(True)):
     conn = get_db()
     cur = conn.cursor()
     query = "SELECT * FROM matches WHERE 1=1"
@@ -79,7 +107,7 @@ async def get_matches(league: str = None, date: str = None, predictions: bool = 
             try:
                 m['prediction'] = _compute_prediction_for_match(m, conn)
             except Exception as e:
-                m['prediction'] = {'winner': 'draw', 'confidence': 33.3, 'error': str(e)}
+                m['prediction'] = {'winner': 'draw', 'confidence': 33.3, 'error': str(e), 'analysis': [], 'team_stats': {}}
         matches.append(m)
     conn.close()
     return {'matches': matches}

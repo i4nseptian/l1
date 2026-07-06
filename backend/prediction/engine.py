@@ -75,6 +75,91 @@ def _score_odds_movement(odds_current, odds_opening):
     return min(100, max(0, 50 + change * 10))
 
 
+def generate_analysis(match_data, result, team_stats=None):
+    lines = []
+    home = team_stats.get('home', {}) if team_stats else {}
+    away = team_stats.get('away', {}) if team_stats else {}
+    home_name = home.get('name', 'Home')
+    away_name = away.get('name', 'Away')
+
+    # Form analysis
+    form_h = match_data.get('form_home', '')
+    form_a = match_data.get('form_away', '')
+    if form_h and form_a:
+        h_wins = form_h.upper().count('W')
+        a_wins = form_a.upper().count('W')
+        h_losses = form_h.upper().count('L')
+        a_losses = form_a.upper().count('L')
+        if h_wins > a_wins + 1:
+            lines.append(f"{home_name} lebih konsisten ({form_h[:5]}) vs {away_name} ({form_a[:5]})")
+        elif a_wins > h_wins + 1:
+            lines.append(f"{away_name} lebih konsisten ({form_a[:5]}) vs {home_name} ({form_h[:5]})")
+        elif h_losses > a_losses + 1:
+            lines.append(f"{away_name} lebih stabil ({form_a[:5]}) vs {home_name} ({form_h[:5]})")
+        elif a_losses > h_losses + 1:
+            lines.append(f"{home_name} lebih stabil ({form_h[:5]}) vs {away_name} ({form_a[:5]})")
+
+    # Position analysis
+    pos_h = match_data.get('position_home')
+    pos_a = match_data.get('position_away')
+    if pos_h is not None and pos_a is not None:
+        if pos_h < pos_a:
+            lines.append(f"{home_name} unggul klasemen (#{pos_h} vs #{pos_a})")
+        elif pos_a < pos_h:
+            lines.append(f"{away_name} unggul klasemen (#{pos_a} vs #{pos_h})")
+
+    # H2H analysis
+    h2h = match_data.get('h2h', [])
+    if h2h:
+        h_wins = sum(1 for r in h2h if r.get('result') == 'home')
+        a_wins = sum(1 for r in h2h if r.get('result') == 'away')
+        draws = sum(1 for r in h2h if r.get('result') == 'draw')
+        if h_wins > a_wins:
+            lines.append(f"Rekor H2H: {home_name} unggul ({h_wins}W {draws}D {a_wins}L)")
+        elif a_wins > h_wins:
+            lines.append(f"Rekor H2H: {away_name} unggul ({a_wins}W {draws}D {h_wins}L)")
+        elif draws >= 3:
+            lines.append(f"Keduanya sering imbang ({draws}X dari {len(h2h)} pertemuan)")
+
+    # Odds analysis
+    odds_h = match_data.get('odds_home', 0)
+    odds_a = match_data.get('odds_away', 0)
+    if odds_h and odds_a:
+        if odds_h < odds_a and odds_h < 2.0:
+            lines.append(f"Market kuat mendukung {home_name} (odds {odds_h:.2f})")
+        elif odds_a < odds_h and odds_a < 2.0:
+            lines.append(f"Market kuat mendukung {away_name} (odds {odds_a:.2f})")
+        elif abs(odds_h - odds_a) < 0.5:
+            lines.append(f"Odds seimbang ({odds_h:.2f} vs {odds_a:.2f}) menandakan laga ketat")
+
+    # Goal stats
+    if home.get('won') is not None and home.get('played'):
+        h_win_rate = home['won'] / max(home['played'], 1) * 100
+        a_win_rate = away['won'] / max(away['played'], 1) * 100
+        if h_win_rate > 60:
+            lines.append(f"{home_name} punya rekor kandang kuat ({home['won']}W/{home['played']}P)")
+        if a_win_rate > 60:
+            lines.append(f"{away_name} punya rekor tandang kuat ({away['won']}W/{away['played']}P)")
+
+    # Draw analysis
+    draw_score = result.get('scores', {}).get('draw', 0)
+    total_score = sum(result.get('scores', {}).values()) or 1
+    draw_pct = draw_score / total_score * 100
+    if draw_pct >= 35:
+        lines.append("Kedua tim memiliki performa berimbang, potensi imbang tinggi")
+
+    # Winner explanation
+    winner = result.get('winner', 'draw')
+    if winner == 'home':
+        lines.append(f"Kesimpulan: {home_name} lebih diunggulkan berdasarkan analisis statistik")
+    elif winner == 'away':
+        lines.append(f"Kesimpulan: {away_name} lebih diunggulkan berdasarkan analisis statistik")
+    else:
+        lines.append("Kesimpulan: Pertandingan diprediksi berakhir imbang")
+
+    return lines
+
+
 def predict(match_data):
     w = DEFAULT_WEIGHTS
     history = _get_accuracy_stats()

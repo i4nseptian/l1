@@ -205,18 +205,37 @@ export default function Dashboard() {
   );
 }
 
+function FormDotsSmall({ form }) {
+  if (!form) return null;
+  const arr = typeof form === 'string' ? form.split('') : (form || []);
+  return (
+    <div className="flex gap-0.5">
+      {arr.slice(0, 5).map((f, i) => (
+        <span key={i} className={`w-2 h-2 rounded-full ${
+          f === 'M' || f === 'W' ? 'bg-emerald-500' :
+          f === 'S' || f === 'D' ? 'bg-amber-400' : 'bg-red-400'
+        }`} />
+      ))}
+    </div>
+  );
+}
+
 function MatchCard({ match }) {
   const isLive = match.status === 'live' || match.status === 'in_play';
   const isFinished = match.status === 'finished' || match.status === 'FINISHED';
   const pred = match.prediction;
   const isUpcoming = !isLive && !isFinished;
+  const stats = pred?.team_stats || {};
+  const homeForm = stats.home?.form || match.home_form || '';
+  const awayForm = stats.away?.form || match.away_form || '';
+  const analysis = pred?.analysis || [];
 
   return (
     <Link
       to={`/match/${match.id}`}
       className={`bg-white rounded-xl shadow-sm border p-3.5 hover:shadow-md transition-all block ${
         isLive ? 'border-red-200 ring-1 ring-red-100' :
-        isUpcoming && pred ? 'border-emerald-200' :
+        isUpcoming && pred ? 'border-emerald-200 border-l-4 border-l-emerald-500' :
         'border-gray-100'
       }`}
     >
@@ -230,6 +249,7 @@ function MatchCard({ match }) {
           {isLive ? 'LIVE' : isFinished ? 'FT' : 'Upcoming'}
         </span>
       </div>
+
       <div className="flex items-center justify-between">
         <div className="flex-1 text-right font-bold text-sm text-gray-900 truncate pr-2">{match.home_team}</div>
         <div className="text-center px-2.5">
@@ -241,13 +261,39 @@ function MatchCard({ match }) {
         </div>
         <div className="flex-1 text-left font-bold text-sm text-gray-900 truncate pl-2">{match.away_team}</div>
       </div>
+
+      {/* Form dots */}
+      {(homeForm || awayForm) && (
+        <div className="flex items-center justify-center gap-3 mt-1.5">
+          <FormDotsSmall form={homeForm} />
+          <span className="text-[9px] text-gray-400 font-medium">form</span>
+          <FormDotsSmall form={awayForm} />
+        </div>
+      )}
+
+      {/* Prediction badge */}
       {pred && (
         <div className="mt-1.5 flex justify-center">
           <PredictionBadge winner={pred.winner} confidence={pred.confidence} size="sm" />
         </div>
       )}
+
+      {/* Analysis */}
+      {pred && analysis.length > 0 && (
+        <div className="mt-2 bg-gradient-to-r from-gray-50 to-green-50/50 rounded-lg px-2.5 py-2">
+          <div className="text-[9px] font-bold text-gray-400 uppercase tracking-wider mb-1">Analisis</div>
+          {analysis.slice(0, 3).map((line, i) => (
+            <div key={i} className="text-[10px] text-gray-600 leading-tight mb-0.5 flex items-start gap-1">
+              <span className="text-green-600 mt-0.5">•</span>
+              <span>{line}</span>
+            </div>
+          ))}
+        </div>
+      )}
+
+      {/* Odds */}
       {match.odds_home && (
-        <div className="flex justify-center gap-2.5 mt-1 text-[9px] text-gray-400 font-medium">
+        <div className="flex justify-center gap-2.5 mt-1.5 text-[9px] text-gray-400 font-medium">
           <span>{match.odds_home.toFixed(2)}</span>
           <span className="text-gray-300">|</span>
           <span>{match.odds_draw?.toFixed(2)}</span>
